@@ -94,5 +94,7 @@ h1 {
 .end{
     margin:auto;
     text-align:center;
-    font-size:5px;
+    font-size:10px;
+    color: white;
+    margin-top: 10px;
 }
